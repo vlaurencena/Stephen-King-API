@@ -9,7 +9,7 @@ This is an open-source API that provides Novela, Short Story, character(_current
 
 ## Live Documentation (Swagger UI)
 
-Explore the API and its endpoints interactively using our [Stephen King API Documentation](https://vlaurencena.github.io/stephen-king-openapi-swagger-ui/).
+Explore the API and its endpoints interactively using our [Stephen King API Documentation](https://hvanlear.github.io/Stephen-King-API/).
 
 ## Routes
 
